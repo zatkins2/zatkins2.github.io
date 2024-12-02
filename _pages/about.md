@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Pets.
+subtitle: Cosmology | Phd Student | Princeton University | zatkins AT princeton DOT edu
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: selfie_20241202.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
