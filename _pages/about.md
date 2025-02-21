@@ -23,7 +23,7 @@ During my PhD, I developed core components of the ACT data release 6 (DR6) cosmo
 My contributions and research interests include:
 
 * [map-level noise modeling](https://arxiv.org/abs/2303.04180) for all ACT DR6 analyses
-* covariance modeling and systematics tests for the ACT DR6 power spectrum*
+* [covariance modeling](https://arxiv.org/abs/2412.07068) and systematics tests for the ACT DR6 power spectrum
 * map-level inference for small scales (CMB, dust, ...)*
 * making all of the above [accessible](https://arxiv.org/abs/2103.03154) and [easy-to-use](https://github.com/ACTCollaboration/DR4_DR5_Notebooks) to [researchers](https://github.com/ACTCollaboration/DR6_Notebooks) and the [public](https://sites.google.com/uchicago.edu/act-sptcmbanalysissummersc)
 
